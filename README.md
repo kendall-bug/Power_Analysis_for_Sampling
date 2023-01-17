@@ -1,1 +1,3 @@
-# Power_Analysis_for_Sampling
+# Power Analysis for Sampling
+
+Template for calculating appropriate sample sizes for statistical analysis.
